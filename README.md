@@ -42,6 +42,3 @@ streamlit run app.py
 
 The main objective of this project is to demonstrate different **image processing, face detection, facial analysis, and face verification techniques** using Python.
 
-## ✅ Conclusion
-
-This project combines **classical computer vision and deep learning techniques** in a single interactive application.
